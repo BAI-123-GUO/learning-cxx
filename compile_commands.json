@@ -1,0 +1,16 @@
+[
+{
+  "directory": "C:\\Users\\31800\\Desktop\\InfiniTensor_training\\markdown_code\\learning-cxx",
+  "arguments": ["E:\\vs_build_tools\\buildtools_install\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/MD", "/W3", "/O2", "/std:c++17", "/D__XMAKE__=\"C:/Users/31800/Desktop/InfiniTensor_training/markdown_code/learning-cxx\"", "/EHsc", "/utf-8", "/DNDEBUG", "/Fobuild\\.objs\\test\\windows\\x64\\release\\learn\\test.cpp.obj", "learn\\test.cpp"],
+  "file": "learn\\test.cpp"
+},
+{
+  "directory": "C:\\Users\\31800\\Desktop\\InfiniTensor_training\\markdown_code\\learning-cxx",
+  "arguments": ["E:\\vs_build_tools\\buildtools_install\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/MD", "/W3", "/O2", "/std:c++17", "/EHsc", "/utf-8", "/DNDEBUG", "/Fobuild\\.objs\\learn\\windows\\x64\\release\\learn\\learn.cpp.obj", "learn\\learn.cpp"],
+  "file": "learn\\learn.cpp"
+},
+{
+  "directory": "C:\\Users\\31800\\Desktop\\InfiniTensor_training\\markdown_code\\learning-cxx",
+  "arguments": ["E:\\vs_build_tools\\buildtools_install\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/MD", "/W3", "/O2", "/std:c++17", "/EHsc", "/utf-8", "/DNDEBUG", "/Fobuild\\.objs\\summary\\windows\\x64\\release\\learn\\summary.cpp.obj", "learn\\summary.cpp"],
+  "file": "learn\\summary.cpp"
+}]
